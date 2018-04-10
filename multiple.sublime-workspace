@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"order",
+				"orderTotal"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"Lis",
+				"list-style-type"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"t",
+				"text"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cyrille/Bureau/THP_CodeCademy/Semaine2/learn_ruby/02_calculator/calculator_spec.rb",
+		"/home/cyrille/Bureau/THP_CodeCademy/Semaine2/learn_ruby/02_calculator/calculator.rb",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/s1 - 20180404 - Projet validant - Google/Accueil_Google.css",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/s1 - 20180404 - Projet validant - Google/Accueil_Google.html",
+		"/home/cyrille/Bureau/THP_CodeCademy/Semaine2/learn_ruby/01_temperature/temperature.rb",
+		"/home/cyrille/Bureau/THP_CodeCademy/Semaine2/learn_ruby/00_hello/hello.rb",
+		"/home/cyrille/Bureau/THP_CodeCademy/Semaine2/learn_ruby/00_hello/hello_spec.rb",
+		"/home/cyrille/Bureau/THP_CodeCademy/Semaine2/learn_ruby/01_temperature/temperature_spec.rb",
+		"/home/cyrille/Bureau/THP - CodeCademy/JS/TDD/TDD Exemple5.js",
+		"/home/cyrille/Bureau/THP - CodeCademy/JS/TDD/TDD Exemple3.js",
+		"/home/cyrille/Bureau/THP - CodeCademy/JS/TDD/TDD Exemple2.html",
+		"/home/cyrille/Bureau/THP - CodeCademy/JS/TDD/TDD Exemple.js",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/CVweb/CV_en_ligne_CM_v3.css",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/CVweb/CV_en_ligne_CM_v3.html",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/TP_final_Zozor/tp_final_perso/SiteZozor_index.css",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/TP_final_Zozor/tp_final_perso/SiteZozor_index.html",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/CVweb/Menu.css",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/CVweb/Menu.html",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/Projet validant - Google/Accueil_Google.css",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/Projet validant - Google/Accueil_Google.html",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/s1 - 20180405 - Corrections Google/Blot/style.css",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/s1 - 20180405 - Corrections Google/Blot/test.html",
+		"/home/cyrille/Bureau/THP - CodeCademy/Git/semaine 01/s1 - Corrections Google/Blot/style.css",
+		"/home/cyrille/Bureau/THP - CodeCademy/Git/semaine 01/s1 - Corrections Google/Blot/test.html",
+		"/home/cyrille/Bureau/THP - CodeCademy/Git/semaine 01/s1-Ruby/Anne_bissextile.rb",
+		"/home/cyrille/Bureau/THP - CodeCademy/Semaine 1/Jeux - Ruby - 20180402/Anne_bissextile.rb",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/Webtest/Webtest.css",
+		"/home/cyrille/Bureau/COURS - html_css 20180321/Webtest/Webtest.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "multiple.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
