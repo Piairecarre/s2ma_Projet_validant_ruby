@@ -1,24 +1,23 @@
-def sum_of_multiples(multiple1, multiple2, number_to_go)
+def sumMultiples(multi1, multi2, number_Max)
   sum = 0
-  number_to_go.times do |current_number|
-    sum += current_number if current_number % multiple1 == 0 || current_number % multiple2 == 0
-  end
-  sum
+  number_Max.times {|n| sum += current_number if (current_number % multiple1 == 0 || current_number % multiple2 == 0)}
+  return sum
 end
 
-def ask_for_numbers
+def inputUser
   puts "Multiple 1 choisi ?"
-  multiple1 = gets.chomp.to_i
+  multi1 = gets.chomp.to_i
   puts"Multiple 2 choisi ?"
-  multiple2 = gets.chomp.to_i
+  multi2 = gets.chomp.to_i
   puts "Jusqu'à combien ?"
-  number_to_go = gets.chomp.to_i
-  return multiple1, multiple2, number_to_go
+  number_Max = gets.chomp.to_i
+  return multi1, multi2, number_Max
 end
 
-def perform
-  multiple1, multiple2, number_to_go = ask_for_numbers
-  puts sum_of_multiples(multiple1, multiple2, number_to_go)
+def mainAlgo
+  multi1, multi2, number_Max = inputUser
+  puts sumMultiples(multi1, multi2, number_Max)
 end
 
-perform
+mainAlgo
+puts "NB : Cher Cédric, la somme de tous les multiples de 3 ou 5 inférieurs à 1000 est : 233 168."
